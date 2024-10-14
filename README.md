@@ -1,7 +1,6 @@
-#협업과 커뮤니케이션의 중요성을 아는 개발자
+# 협업과 커뮤니케이션의 중요성을 아는 개발자
 
-Technical Skills
-
+# Technical Skills
 -Strong : C++, C#, Unity
 
 -Knowledgeable : Unreal Engine, Java, Python, C
